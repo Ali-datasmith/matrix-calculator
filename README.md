@@ -1,3 +1,6 @@
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/52807f62-aa4e-48b3-9619-e3aab176d3c8" />
+
+
 # 🧮 Matrix Calculator
 
 A Matrix arithmetic engine built from scratch with **Python OOP** and dunder methods.
@@ -49,5 +52,5 @@ python src/main.py
 
 ## 👤 Author
 
-**Muhammad Ali Rajput** — Python Developer  
+**Ali-datasmith** — Python Developer  
 [GitHub](https://github.com/Ali-datasmith)
